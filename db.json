@@ -1,0 +1,201 @@
+{
+"nutri":{
+"total_size": 7,
+"type_id": 2,
+"offset":0,
+"food":[
+  {
+    "id":1,
+    "name":"salad",
+    "description":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Salads have a lot of fibre which helps feel full longer and can provide a range of health benefits like helping to reduce or prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. \\nDark leafy greens and brightly coloured vegetables ensure you get a range of vitamins and minerals, helping you to maintain a healthy body and mind. They also have good amount of antioxidants, important chemicals in them fight against cancer-causing free radicals. To get the most benefit, try to keep the majority of the ingredients in their raw form. They’re full of flavour and are crunchy.",
+"proteins":1.6,
+"stars":4,
+"img":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FsYWR8ZW58MHx8MHx8&w=1000&q=80",
+"calories":26.7,
+"fat":0.3,
+"carbohydrates":5.6,
+"time":15
+
+},
+{
+  "id":2,
+  "name":"Dosa",
+  "description":"Dosa is a popular South Indian dish, crispy and thin made of rice and urad dal batter. Dosas are palatable and are a good breakfast option. \\nBenefits of ingredients used in dosas: \\n1. Urad Dal: Urad Dal contains folic acid which helps your body to produce and maintian new cells especially erythrocytes. It is rich in Phosphorus and works with calcium to build bones. It is also an excellent source of complex carbohydrates which means it doesn't fluctuate your blood sugar rapidly as complex carbohydrates are released into the bloodstream slowly. \\n2. Fenugreek Seeds: 1 tsp of fenugreek seeds soaked overnight and eaten early in the morning on an empty stomach controls blood sugar levels. Fenugreek seeds reduce cholesterol and benefit the heart. Some research even shows that fenugreek seeds are good for weight loss as it contains the polysaccharide galactomannan which gives you feeling of fullness. \\n3. Ghee: Ghee is rich in vitamins — all of which are fat-soluble. The 3 vitamins Vitamin A, Vitamin  E and Vitamin K are antioxidants which remove free radicals from the body and not only protect our cells but help us in maintaining skin health and glow. Ghee can handle a smoke point of 230°C, 450°F, which makes it less prone to oxidant and destruction of nutrients, making it good for high temperature cooking. Studies show it reduces unhealthy cholesterol. Ghee is necessary for hormone production, brain function, cell health and lubricating the joints. It is a high quality fat for the body and brain. Ghee is loaded with fats but that's  medium chain fatty acids (MCT) which aids in weight loss. \\n4. Semi-Brown rice: Semibrown rice is very nutritious and can help to lower cholesterol and blood sugar levels.",
+"proteins":2.7,
+"stars":4,
+"img":"https://popmenucloud.com/pwjhtumn/9f406b5f-d97b-4665-875e-5a59962612df.jpg",
+"calories":133,
+"fat":5.2,
+"carbohydrates": 18.8,
+"time":745
+},
+{
+  "id":3,
+  "name":"Paratha",
+  "description":"Paratha is a basic Indian unleavened flatbread which is derived from Indian subcontinent. Despite being similar to roti in terms of ingredients and dough, the paratha's method, medium of cooking and texture is different. Rotis are thin and parathas are thick. \\nQualities: \\n1. Whole wheat flour in paratha is high in fiber and fiber has many health benefits which include lowering cholesterol and relief from constipation. \\n2. It is low in calories. If made by using less amount of oil and fat, it is good for weight loss and for a low calorie diet. In the dough one teaspoon of oil is usually used. \\n3. Whole wheat flour provides various minerals like Phosphorus, Magnesium, Iron and Zinc (which are necessary for body functioning) that work as a coenzyme to release energy in various metabolic pathways.",
+  "proteins":2.6,
+  "stars":4,
+  "img":"https://img.buzzfeed.com/store-an-image-prod-us-east-1/3EruLCO7l.png?output-format=jpg&output-quality=auto",
+  "calories":126,
+  "fat":6.2,
+  "carbohydrates":15.7,
+  "time":20
+},
+{
+  "id":4,
+  "name":"Palak Paneer",
+  "description":"Palak Paneer is a cuisine from North India containing a gravy of spinach and paneer. \\n1. Paneer: Paneer has good quality protein and calcium which is good for weight loss. Paneer has low amount of carbohydrates and high amount of proteins therefore it gets digested slowly and hence good for diabetes. It has omega 3 fatty acids which is good for the heart. \\n2. Spinach: Spinach is one of the richest plant sources of Iron. Raw spinach is very rich in insoluble fiber, 25% being soluble fiber and 75% insoluble fiber. Spinach is good for the heart and eyes. \\n3. Onions : These are good anti oxidants. The phytochemical present in onions along with their Vitamin C helps boost immunity. The chromium in onions helps regulate your blood pressure. The sulfur in the onions good for your eyes. Raw onions are also found to keep your heart healthy.",
+  "proteins":10.6,
+  "stars":3.5,
+  "img":"https://img.buzzfeed.com/buzzfeed-static/static/2022-02/15/8/enhanced/18d667575d3d/enhanced-1822-1644915180-3.jpg?crop=584:417;37,0",
+  "calories":314,
+  "fat":24,
+  "carbohydrates":14.1,
+  "time":46
+},
+{
+  "id":5,
+  "name":"Chole",
+  "description":"Chole is an Indian meal which is most popular in Punjab. The dish is made up of Kabuli Chana or white chick peas, which is a complex carb and prevents surges in blood sugar levels. They are high in fiber making your stomach feel quite full. \\nThe second good ingredient in chole is onion, which contains phytochemical and vitamin C which helps boost immunity. The chromium inside onions helps to regulate blood pressure. Raw onions are also good for your heart as they produce HDL and lower LDL.",
+  "proteins":7.2,
+  "stars":4,
+  "img":"https://t3.ftcdn.net/jpg/03/95/80/90/240_F_395809087_FjwCn59fY4ZkXw1It4H4MPAOjyRUMYOS.jpg",
+  "calories":223,
+  "fat":9.7,
+  "carbohydrates":26.8,
+  "time":35
+},
+{
+  "id":6,
+  "name":"Zunka",
+  "description":"Zunka is a popular Maharashtrian cuisine which is slightly spicy but quite satisfying in texture, flavour and aroma. It contains Besan which has more good fat than whole wheat flour and also higher protein content. It has high complex carbohydrates and has low glycemic index. Besan is high in Folate or folic acid, which is important for rapid growth and multiplication of red blood cells and white blood cells in the bone marrow. Next it has onion which has vitamin C that helps in collagen synthesis, which gives skin its elasticity and smoothness. They help prevent ageing too. \\nOther beneficial ingredients: \\n1. Coriander: The antioxidants vitamin A, vitamin C and the quercetin present in coriander work towards building our immune system. Coriander is a good source of iron and folate which help in the production and maintenance of red blood cells. It's good for reducing  cholesterol. \\n2. Garlic : Garlic has been proven to lower cholesterol. The active ingredient allicin present in garlic aids in lowering blood pressure. Garlic is great for the heart. Garlic has an antimicrobial, antiviral and antifungal function and can help in relieving common cold and other viral infections. To boost your immune system have a garlic clove a day. The thiosulphate compound, Allicin found in garlic acts as a strong antioxidant and protects our body from damage of free radicals. Garlic even  has anti-inflammatory properties and helps in inflammatory conditions like arthritis. \\n3. Green Chillies : Antioxidant vitamin C in green chillies protects the body from effects of harmful free radicals and prevents stress. The high fiber helps in controlling blood sugar levels. It has Calcium, Magnesium and Phosphorus which are required to build bones.",
+  "proteins":9,
+  "stars":4,
+  "img":"https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/fmvm4kmkpnkt4q84pjob",
+  "calories":272,
+  "fat":13.6,
+  "carbohydrates":28.4,
+  "time":29
+},
+{
+  "id":7,
+  "name":"Bhindi Masala",
+  "description":"One serving of Bhindi Masala gives 83 calories. Out of which carbohydrates comprise 57 calories, proteins account for 14 calories and remaining calories come from fat which is 13 calories. Bhindi is stuffed with mouth-watering mixture of spices and spice powders. \\nBenefits: \\n1. Bhindi: The vitamin Folate (B9) present in okra is required in red blood cell production. There are also fair amounts of Vitamin C, which boosts immunity. There are good amounts of dietary fiber present and hence good for diabetics and weight loss. It lowers cholesterol and is good for heart. \\n2. Onions: The phytochemical present in onions along with their Vitamin C helps boost your immunity. The chromium in onions helps regulate your blood pressure. The sulfur in the onion which brings you tears is actually good for your eyes. Raw onions keep your heart healthy. \\n3. Coriander: The antioxidants vitamin A, vitamin C and the quercetin present in coriander works towards strengthening our immune system. Coriander is a fairly good source of iron and folate — the 2 nutrients which help in the production and maintenance of red blood cells. Good for reducing cholesterol and for diabetics. \\n4. Besan : Besan has more good fat than whole wheat flour and also more protein content. It is rich in complex carbohydrates and with a low glycemic index.",
+  "proteins":3.6,
+  "stars":4.5,
+  "img":"https://images.oyoroomscdn.com/uploads/hotel_image/36495/46c290ea605a6a58.jpg",
+  "calories":83,
+  "fat":1.4,
+  "carbohydrates":14.2,
+  "time":29
+}
+]
+
+},
+"desert":{
+  
+    "total_size": 4,
+    "type_id": 2,
+    "offset":0,
+    "food":[
+      {
+        "id":8,
+        "name":"Besan Ladoo",
+        "description":"One Besan Laddoo gives 307 calories. Out of which carbohydrates comprise 152 calories, proteins account for 32 calories and remaining calories come from fat which is 122 calories. While making this make sure that you do not add too much of ghee and replace sugar with stevia. \\nBenefits: \\n1. Besan : Besan has more good fat than whole wheat flour and also higher protein content. Rich in complex carbohydrates and with a low glycemic index, besan is good for diabetics too. Besan is high in Folate or folic acid, which is important for rapid growth and multiplication of red blood cells and white blood cells (WBC) in the bone marrow. Rich in complex carbohydrates and with a low glycemic index, besan is good for diabetics too. \\n2. Almonds: Almonds are rich in B complex vitamins such as Vitamin Bl, Thiamine  , Vitamin B3, Niacin and Folate, Vitamin B9 which plays an important role in the brain development. Almonds balances your cholesterol levels. Almonds have a very low glycemic index and are good for diabetics.",
+    "proteins":8,
+    "stars":3.5,
+    "img":"https://static.wixstatic.com/media/f460ff_0d1fba1c4d244c16b66460643e88c8e7~mv2.jpg/v1/fill/w_1200,h_1200,al_c,q_85/f460ff_0d1fba1c4d244c16b66460643e88c8e7~mv2.jpg",
+    "calories":307,
+    "fat":13.6,
+    "carbohydrates":38.1,
+    "time":23
+    
+    },
+    {
+      "id":9,
+      "name":"Diet Kesar Peda",
+      "description":"One Kesar Peda gives 93 calories. Out of which carbohydrates comprise 36 calories,proteins account for 15 calories and remaining calories come from fat which is 42 calories. Do not add sugar. Replace sugar with stevia. \\nBenefits: \\n1. Low fat milk khoya or mawa: Minerals like calcium and potassium in milk products are important for maintaining heart health and reducing blood pressure. Milk products are a great source of bone strengthening minerals like calcium and phosphorus, and vitamin D. Regular consumption of milk products may therefore be effective in preventing osteoporosis. Milk products like mawa contain high-quality protein that is crucial for muscle development and growth. Choline, which is found in dairy products, is a key nutrient for preventing muscle damage. \\n2. Stevia: Stevia is a natural sweetener derived from the leaves of the stevia plant (Stevia rebaudiana). It has zero calories and is 200 times sweeter than table sugar, it’s good for weight loss and lowering blood sugar.",
+    "proteins":3.6,
+    "stars":4,
+    "img":"https://ik.imagekit.io/dunzo/tr:w-$w$,h-$h$,cm-pad_resize/1615707180636_product_5eda2a0a6fd74a5cc8ea58f6_1.jpg",
+    "calories":93,
+    "fat":4.7,
+    "carbohydrates": 9,
+    "time":15
+    },
+    {
+      "id":10,
+      "name":"Kaju Katli",
+      "description":"One piece of Kaju Katli gives 41 calories. Out of which carbs comprise 19 calories, proteins comprise 4 calories and remaining 18 calories come from fat. While making this desert make sure to replace sugar with stevia else it will not be healthy. \\nBenefits: \\n1. Cashew Nuts: In general, walnuts, cashew nuts, peanuts, almonds, pistachios and pinenuts are a healthy snack to carry keep with you as they are rich in monounsaturated fats and polyunsaturated fats and good for heart. They are a healthy snack for Diabetics. Dietary intakes of cashew and other foods rich in magnesium helps to regulate blood pressure. \\n2. Milk and Low Fat Milk: Milk promotes strong bones. The Calcium in Milk helps to protect your teeth against gum disease and keeps your jaw bone strong and healthy. Milk is low in carbs and therefore does not raise blood glucose levels. However diabetics must consider including low fat milk as advised by their dietitian only so as to avoid any fluctuations in blood sugar levels. Protein is another key nutrient which milk is rich in - 8.6 g from a cup. So all those looking to build protein   stores can add milk and its products like curd and paneer to their diet. \\n3. Ghee: Ghee is rich in vitamins — all of which are fat-soluble. The 3 vitamins Vitamin A, Vitamin  E and Vitamin K are antioxidants which remove free radicals from the body and not only protect our cells but help us in maintaining skin health and glow. Ghee can handle a smoke point of 230°C, 450°F, which makes it less prone to oxidant and destruction of nutrients, making it good for high temperature cooking. Studies show it reduces unhealthy cholesterol. Ghee is necessary for hormone production, brain function, cell health and lubricating the joints. It is a high quality fat for the body and brain. Ghee is loaded with fats but that's medium chain fatty acids (MCT) which aids in weight loss.",
+      "proteins":1,
+      "stars":4.5,
+      "img":"https://img.freepik.com/free-photo/kaju-katli_57665-9595.jpg?w=2000",
+      "calories":41,
+      "fat":2,
+      "carbohydrates":4.8,
+      "time":180
+    },
+    {
+      "id":11,
+      "name":"Gajar Halwa",
+      "description":"One serving of Gajar ka Halwa gives 386 calories. Out of which carbohydrates comprise 167 calories, proteins account for 22 calories and remaining calories come from fat which is 195 calories. Replace sugar with stevia. \\nBenefits: \\n1. Carrots : 3 cups carrot is used. Carrots have the nutrient Beta Carotene which is a form of Vitamin A, helps prevent deterioration of the eye as one gets older and prevents night blindness. Carrot is great for the eyes. They relieve constipation, lower blood pressure, have fiber. \\n2. Milk and Low Fat Milk : Mawa is made from milk. Milk promotes strong bones. The Calcium in milk helps to protect your teeth against gum disease and keeps your jaw bone strong and healthy. Milk is low in carbs and therefore does not raise blood glucose levels. However diabetics must consider including low fat milk as advised by their dietitian only so as to avoid any fluctuations in blood sugar levels. Protein is another key nutrient which is present in milk. So all those looking to build protein stores can add milk and its products like curd and paneer to their diet. One cup of Milk gives 10 grams of carbs.",
+      "proteins":5.6,
+      "stars":3.5,
+      "img":"https://t4.ftcdn.net/jpg/01/88/68/71/240_F_188687130_oyF3HKaVEB2xbq5642FMlZ5jWWQ801af.jpg",
+      "calories":386,
+      "fat":21.7,
+      "carbohydrates":41.8,
+      "time":23
+    }
+    
+    ]
+    
+},
+"meals":{
+  
+    "total_size": 3,
+    "type_id": 2,
+    "offset":0,
+    "food":[
+      {
+        "id":12,
+        "name":"Veg Biryani",
+        "description":"Vegetable Biryani is a traditional Mughlai Biryani made with rice, lots of mixed vegetables, onions, curds and tomatoes. One serving of Vegetable Biryani gives 241 calories. Out of which carbohydrates comprise 56 calories, proteins account for 19 calories and remaining calories come from fat which is 161 calories. Make sure to replace white rice with semi brown rice. \\nBenefits: \\n1. Mixed Vegetables: You get the benefits of lots of nutrients as you are using cauliflower, carrots, cabbage, french beans and green peas. Cauliflower is extremely low in carbs and therefore does not raise blood glucose levels. Rich in Antioxidant. Cabbage is low in calories, relieves constipation, good for diabetics. Green peas are good for weight loss, good source of vegetarian protein, has insoluble fibre to relieve constipation. \\n2. Tomatoes: Tomatoes are extremely rich source of Lycopene. Tomatoes are a powerful antioxidant, super rich in Vitamin C, good for heart. Tomatoes are a Pregnant women's friend and are rich in Folate or Folic Acid which helps your body to produce and maintain new cells, especially red blood cells. \\n3. Onions: The phytochemical present in onions along with their Vitamin C help boost your immunity. The chromium in onions help regulate your blood pressure. \\n4. Semi-Brown rice: Semi-brown rice is very nutritious and can help to lower cholesterol and blood sugar levels.",
+    "proteins":8.9,
+    "stars":3.5,
+    "img":"https://media.istockphoto.com/photos/indian-pulav-vegetable-rice-veg-biryani-basmati-rice-picture-id495185782?k=20&m=495185782&s=612x612&w=0&h=rUDIGAdGJFnjeqPLQBL9_tKFARMZN_A4EL91IRnJHAg=",
+    "calories":448,
+    "fat":18.2,
+    "carbohydrates":60.8,
+    "time":55
+    
+    },
+    {
+      "id":13,
+      "name":"Avial",
+      "description":"This is a South Indian curry containing combination of veggies which are flavoured aesthetically with a mildly-spiced coconut paste. \\Benefits: \\n1. Drumsticks: Drumsticks being low in calories and low in carbs, you can enjoy it in the quantity you want. Drumstick is super rich in Vitamin C and antioxidants. \\n2. Red Pumpkin: A cup of pumpkin cubes fulfils your day's requirement of Vitamin A (5526 mcg), thus making it a super food for your eyes. Red Pumpkin can be included in safe amounts by diabetics. The magical combo of antioxidants and Vitamins A and  Vitamin C  create a shield against cancer cells. The antioxidants help reducing LDL cholesterol (bad cholesterol) from oxidizing and clogging the blood vessels, which if persists would increase the risk of heart disease. \\n3. French Beans: French Beans are rich in folic acid. A deficiency of folic acid can also lead to anaemia, as like iron they are equally necessary to make red blood cells. Without enough folic acid, you can easily get tired. Pregnant women can also benefit from its folic acid count. It's effective to achieve weight loss, overcome constipation, control blood sugar levels, treat high cholesterol as well as prevent cancer. \\n4. Carrots: Carrots have the nutrient Beta Carotene which is a form of Vitamin A, helps prevent deterioration of the eye as one gets older and prevents night blindness. Carrot is great for the eyes. They relieve constipation,  lower blood  pressure, have fiber and lower cholesterol. \\n5. Brinjal: Foods like Brinjal have a low glycemic index and good for weight loss. Brinjals are a very good source of fiber. It also prevents blood glucose from shooting up and is good for diabetics. Brinjals are rich in folate, which is required for producing Red Blood Cells and also helps to prevent anaemia. \\n6. Coconut: The fresh coconut has saturated fats but most of it is MCT (Medium Chain  Triglycerides) which promotes weight loss. The high fibre content 13.6 gm (45.3% of RDA) along with high lauric acid content of coconut improves cholesterol levels in the body.",
+    "proteins":2,
+    "stars":4.5,
+    "img":"https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2016/04/pepper-delight-aviyal-4.jpg?w=1999&ssl=1",
+    "calories":71,
+    "fat":4.5,
+    "carbohydrates": 5.1,
+    "time":35
+    },
+    {
+      "id":14,
+      "name":"Sambar",
+      "description":"One serving of Sambar gives 139 calories. Out of which carbohydrates comprise 66 calories, proteins account for 24 calories and remaining calories come from fat which is 5o calories. \\nBenefits: \\n1. Toor Dal: Toor dal is rich in  proteins, the building block of good health. High in fiber, diabetic and heart friendly. Being an excellent source of folic acid, pregnant women must include toor dal in their daily diet. \\n2. Drumsticks: Drumsticks being low in calories and low in carbs, you can enjoy it in the quantity you want. This high fiber helps to manage and prevent many diseases like Diabetes, Heart Disease, High Cholesterol. Drumstick is super rich in Vitamin C and antioxidants. \\n3. Onions:  The phytochemical present in onions along with their Vitamin C help boost your immunity. The chromium in onions help regulate your blood pressure. \\n4. Tomatoes: Tomatoes are extremely rich source of Lycopene. Tomatoes are a powerful antioxidant, super rich in Vitamin C, good for heart. Tomatoes are good for pregnant women. \\n5. Doodhi (Bottle Gourd): With extremely low levels of sodium, this doodhi is highly suitable for those with high BP. It helps reduce blood cholesterol levels and regulate blood pressure and ensures a proper blood flow.",
+      "proteins":5.2,
+      "stars":4,
+      "img":"https://image1.jdomni.in/product/27092021/CB/15/A0/DCBD56E148C35C9AE1C5978483_1632750045398.jpeg?fit=around|1024:768",
+      "calories":143,
+      "fat":5.4,
+      "carbohydrates":18.4,
+      "time":35
+    }
+    
+    ]
+    
+}
+}

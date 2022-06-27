@@ -1,0 +1,23 @@
+{
+  "name": "nutritioninfo",
+  "version": "1.0.0",
+  "description": "Nutrition API on range of meals",
+  "main": "db.json",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titan2011/Basic-Nutrition-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titan2011/Basic-Nutrition-API/issues"
+  },
+  "homepage": "https://github.com/Titan2011/Basic-Nutrition-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
